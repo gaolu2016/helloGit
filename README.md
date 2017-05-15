@@ -7,3 +7,4 @@ from remote
 feature1 one
 feature1 two
 master one
+feature three
