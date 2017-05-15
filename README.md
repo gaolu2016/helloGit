@@ -8,3 +8,5 @@ feature1 one
 feature1 two
 master one
 feature three
+master one
+master two
