@@ -4,3 +4,4 @@ updated
 form local
 from local2
 from remote
+feature1 one
