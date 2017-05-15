@@ -10,3 +10,4 @@ master one
 feature three
 master one
 master two
+from remote feature1
